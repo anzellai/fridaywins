@@ -1,0 +1,34 @@
+{
+  "name": "fridaywins",
+  "version": "0.0.1",
+  "description": "FridayWins Presentation",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^3.0.0",
+    "fsevents": "^1.2.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-postcss": "^7.0.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.12.1",
+    "gulp-uglify": "^1.5.4",
+    "minimatch": "^3.0.4",
+    "postcss-uncss": "^0.16.1",
+    "uncss": "^0.16.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anzellai/fridaywins.git"
+  },
+  "author": "Anzel Lai",
+  "license": "MIT",
+  "homepage": "https://github.com/anzellai/fridaywins"
+}

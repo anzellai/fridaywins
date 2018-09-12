@@ -1,0 +1,11 @@
+elm-stuff
+node_modules
+.env
+config.json
+config.yaml
+.DS_Store
+*.log
+dist
+main
+
+public/static
